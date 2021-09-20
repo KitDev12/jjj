@@ -3,7 +3,7 @@ import socket
 import threading
 
 print("============================|Ddos|====================")
-print("=========================|By KitDev and TCP-UDP-Flood|==================")
+print("=========================|By KitDev|==================")
 
 ip = str(input("Ip:"))
 port = int(input("Port:"))
