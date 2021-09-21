@@ -6,7 +6,7 @@ install git link: https://git-scm.com/downloads
 
 
 
-install window & Termux:
+วิธีติดตั้ง บน Window และ Termux:
 
       git clone https://github.com/KitDev12/Ddos-Attack.git
       
