@@ -2,11 +2,13 @@
 
 install python3 link : https://www.python.org/downloads/
 
-git clone https://github.com/KitDev12/Ddos-Attack.git
+install git link: https://git-scm.com/downloads
 
 
 Examples:
 
+      git clone https://github.com/KitDev12/Ddos-Attack.git
+      
       cd Ddos-Attack
       
-      python3 ddos.py
+      python3 ddos.py or python ddos.py
