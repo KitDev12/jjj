@@ -5,7 +5,8 @@ install python3 link : https://www.python.org/downloads/
 install git link: https://git-scm.com/downloads
 
 
-install:
+
+install window & Termux:
 
       git clone https://github.com/KitDev12/Ddos-Attack.git
       
@@ -13,3 +14,4 @@ install:
       
       python3 ddos.py 
       or python ddos.py
+      
