@@ -11,4 +11,5 @@ Examples:
       
       cd Ddos-Attack
       
-      python3 ddos.py or python ddos.py
+      python3 ddos.py 
+      or python ddos.py
